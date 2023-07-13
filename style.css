@@ -1,0 +1,38 @@
+body{
+   background-color:black;
+
+}
+h1{
+    background: rgb(212, 206, 206);
+    color:black;
+    height:75px;
+    text-align: center;
+    padding-top: 50px;
+    font-size:xx-large;
+}
+
+h3{
+    background: white;
+    color:black;
+    height:100px;
+    width: auto;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+div{
+    background: red;
+    height: 50px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    font-size: xx-large;
+}
+p{
+    text-align: center;
+    padding-top: 10px;
+    height: 200px;
+    font-size: x-large;
+    font-weight:bolder;
+}
